@@ -75,6 +75,7 @@ O projeto já inclui um bloco de código autossuficiente no arquivo principal pa
 python app_central.py
 
 ```
+---
 
 ### 3.Navegação:
 Utilize o menu lateral esquerdo para navegar entre a Análise Individual, a Batalha de Ações, o Auditor da sua Carteira e o Radar de Mercado. Comece adicionando alguns ativos na aba "Carteira"!
