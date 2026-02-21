@@ -1,0 +1,7 @@
+customtkinter
+yfinance
+pandas
+matplotlib
+google-generativeai
+python-dotenv
+pydantic
